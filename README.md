@@ -5,7 +5,7 @@
 Student: Sasha Tarasiuk
 
 Group: IT-32
-
+Email: tarasiuksasha2021@gmail.com
 Course: Python programming, semester 1
 
 
